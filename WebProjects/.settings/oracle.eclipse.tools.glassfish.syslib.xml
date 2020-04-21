@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<system-libraries>
+    <library path="C:/My Drive/Softwares/java/J2EE Material/glassfish4/glassfish/modules/javax.websocket-api.jar" source="C:/My Drive/Softwares/java/J2EE Material/glassfish4/glassfish/glassfish-4.0.jar"/>
+</system-libraries>
